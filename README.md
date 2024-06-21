@@ -3,7 +3,7 @@ This MATLAB code analyzes point cloud images of H2B distribution in the nucleus 
 
 DOI for the github repository: https://doi.org/10.5281/zenodo.11035910
 
-This repository relates to the research publication "Kant A. et al., Active Transcription and Epigenetic Reactions Synergistically Regulate Meso-Scale Genomic Organization, BioRxiv, 2023" (https://doi.org/10.1101/2023.04.21.537822). Please cite our paper if this code is used or modified for further use.
+This repository relates to the research publication "Kant A. et al., Active Transcription and Epigenetic Reactions Synergistically Regulate Meso-Scale Genomic Organization, Nature Communications, 2024" (https://doi.org/10.1038/s41467-024-48698-z). Please cite our paper if this code is used or modified for further use.
 ------------------------------------------------------------------------------
 ## System Requirement
 # Operating system:
